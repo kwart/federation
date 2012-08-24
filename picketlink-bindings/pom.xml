@@ -14,6 +14,7 @@
    <description>PicketLink Federation is the federated identity project for JEMS projects</description>
 
    <modules>
+<!--
      <module>picketlink-tomcat-common</module>
      <module>picketlink-tomcat5</module>
      <module>picketlink-tomcat7</module>
@@ -23,6 +24,7 @@
      <module>build-tomcat5</module>
      <module>build-tomcat7</module>
      <module>build-jbas5</module>
+-->
      <module>build-jbas7</module>
    </modules>
 
